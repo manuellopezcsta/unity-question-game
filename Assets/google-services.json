@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566545274815",
+    "project_id": "questions-unity-game",
+    "storage_bucket": "questions-unity-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566545274815:android:67d2b66a450381a239b30a",
+        "android_client_info": {
+          "package_name": "com.Ultragames.UnityQuestionsApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566545274815-v6gn7tpf7ic3bro6j69cd2iutbia45bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHLmbDNJx16OfDAssQKDphjGG6OW3pzCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566545274815-v6gn7tpf7ic3bro6j69cd2iutbia45bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

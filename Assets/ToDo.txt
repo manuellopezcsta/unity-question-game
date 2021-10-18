@@ -1,0 +1,10 @@
+- se pickean 10 preguntas y si la respondes correctamente se saca del loop. // DONE pero 5
+- Hacer que los botones queden no presionables despues de que les hagas click. // DONE
+- Menu, para launchear el juego. ( Play ,how to , quit). // DONE
+- pantalla next question in 3 2 1 GO. //DONE
+- sonidito correcto e incorrecto // DONE
+- Display personal best // no se.. si hacerlo
+- se dan preguntas hasta q llegues a 10 correctas. // NOP... cuantas sacas de 10 es el metodo actual.
+- se loopean hasta que las respondes todas y se guarda tu tiempo final. // NOP
+
+Musica de https://soundcloud.com/ben-mc-406891604/chill-menu-music
